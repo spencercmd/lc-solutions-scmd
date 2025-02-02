@@ -26,3 +26,6 @@ int main() {
     return 0;
 
 }
+
+// %f is used for float values in scanf
+// Use & before the variable name when using scanf
